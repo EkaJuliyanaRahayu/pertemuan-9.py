@@ -32,6 +32,10 @@
 # <p>Tugas praktikum</p>
 
 ![alt text](gambar/gambar2.png?raw=true)
+<p>1. Membuat list yang berisi nama, nim, nilai tugas,  nilai uts, nilai uas.</p>
+<p>2. input nama, nim, nilai tugas, nilai uts, nilai uas</p>
+
+
 
 # <p>flowchart</p>
 

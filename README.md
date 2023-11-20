@@ -34,6 +34,8 @@
 ![alt text](gambar/gambar2.png?raw=true)
 <p>1. Membuat list yang berisi nama, nim, nilai tugas,  nilai uts, nilai uas.</p>
 <p>2. input nama, nim, nilai tugas, nilai uts, nilai uas</p>
+<p>3. jika ingin menambahkan data maka ketik "Y" jika tidak ingin menambahkan data lagi ketik "t"</p>
+<p>4. jika sudah tekan enter maka data akan muncul </p>
 
 
 
